@@ -38,3 +38,9 @@ Probs gonna be a fighter
 
 Variables set by assembler go in cartridge RAM
 For HRAM, set the addresses yourself
+
+
+---
+
+# Also I `borrowed` a tonne of this from Wichita Uni's course (found online)
+# if I have to give it back will delet repo in heartbeat
