@@ -1,6 +1,5 @@
-# Tryna make a GB game lol
+# Early stage Gameboy Fighter Game
 
-Probs gonna be a fighter
 
 
 ---
@@ -21,7 +20,7 @@ Probs gonna be a fighter
 	- Sprite movement
 
 ### ibmpc1.inc
-	- Shit tonna characters
+	- Characters
 	- Loaded into VRAM in main.asm
 
 ### standard-defs.inc
@@ -42,5 +41,4 @@ For HRAM, set the addresses yourself
 
 ---
 
-# Also I `borrowed` a tonne of this from Wichita Uni's course (found online)
-# if I have to give it back will delet repo in heartbeat
+# Please note this code is based off of the startup code from Whichta University's course
